@@ -1,0 +1,35 @@
+* scanf return no. of characters successfully written on the output
+
+* important backslash commands
+\a    Audible bell
+\b    Backspace
+\f    Formfeed
+\n    Newline (linefeed)
+\r    Carriage return  starting of string
+\t    Tab (horizontal)
+\v    Vertical tab
+\\    Backslash
+\'    Single quote (apostrophe)
+\"    Double quote
+\?    Question mark
+
+* %% for printing one %
+
+* printf(5 + "GeeksQuiz") --> Quiz
+
+* 5["akashg"]=g
+* "GeeksQuiz"[5]=Q
+
+*scanf("%4s", str)--> read max 4 characters
+ or scanf("%.*s",4,str)
+ 
+* return type of getchar()=int
+* evaluation doesnt happen inside sizeof operator
+
+*+ operator doesnt decide which oprand will be fetched first so compiler dependent
+
+* *(arr + 0) &= ~VAL; converts into capital
+* fmod(double,double) works on taking modulo on double values
+* | is for set and & is for reset
+
+* fun(),bar();--> two function can be called by comma separator
